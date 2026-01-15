@@ -1,19 +1,10 @@
-# NexusAI — Корпоративная AI-платформа
+# NexusAI
 
-![Preview](https://cdn.poehali.dev/templates/ai-platform-ru/preview.jpg)
+![Preview](https://cdn.poehali.dev/templates/ai-platform-ru/cover.jpg)
 
-Hero-секция для корпоративной AI-платформы. Тёмная тема с градиентами, навигация, CTA-кнопки и секция партнёров.
+Hero-секция для корпоративной AI-платформы. Премиальная тёмная тема с глубокими синими градиентами, полноценная навигация, двойной CTA и секция логотипов партнёров. Создаёт ощущение надёжности и масштаба для enterprise-решений.
 
-## Quick Start
-
-```bash
-npm install
-npm run dev
 ```
-
-## Tech Stack
-
-- React 18 + Vite
-- Tailwind CSS
-- shadcn/ui
-- React Router
+"category": "hero-only"
+"tags": ["dark", "gradient", "enterprise", "corporate"]
+```
